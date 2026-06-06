@@ -26,7 +26,11 @@ It allows users to perform basic arithmetic operations in an interactive way.
 This project helps you understand:
 
 🧩 How to create and use functions in Python
+
 🔁 How loops work (while True)
+
 🧠 How conditional statements control logic (if-elif-else)
+
 🛡️ How error handling works using try-except
+
 ⌨️ How to take and process user input
